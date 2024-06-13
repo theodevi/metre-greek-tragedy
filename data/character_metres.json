@@ -1,0 +1,4706 @@
+[
+  {
+    "title": "orestes",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "orestes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "mycenaean",
+            "spartan",
+            "argive"
+          ],
+          "fin_myth": "human",
+          "metre": {"dochmiac": 7, "cretic_paeonic": 44, "iambic": 324, "trochaic": 70, "asynartetic": 1, "aeolo_choriambic": 1, "iambo_trochaic": 8, "ionic": 24, "lekythion": 1, "dactylic": 12, "dactylo_epitrite": 1}
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre":  {
+              "iambic": 76,
+              "iambo_trochaic": 2,
+              "trochaic": 16,
+              "aeolo_choriambic": 1,
+              "cretic_paeonic": 4,
+              "ionic": 6
+            }
+        }
+      },
+      {
+        "name": "pylades",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "prince",
+          "fin_country": [
+            "greek",
+            "phocian"
+          ],
+          "fin_myth": "human",
+          "metre": {
+          "ionic": 3,
+          "iambic": 86,
+          "dactylic": 8,
+          "trochaic": 27,
+          "cretic_paeonic": 6,
+          "dochmiac": 2,
+          "iambo_trochaic": 2,
+          "aeolo_choriambic": 1
+        }
+        }
+      },
+      {
+        "name": "ermione",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": "trojan",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 9,
+              "iambo_trochaic": 2
+            }
+        }
+      },
+      {
+        "name": "helene",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "queen",
+          "fin_country": [
+            "greek",
+            "trojan"
+          ],
+          "fin_myth": "demigod",
+          "metre": {"iambic": 33, "ionic": 2, "dactylic": 8}
+        }
+      },
+      {
+        "name": "elektra",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "mycenaean"
+          ],
+          "fin_myth": "human",
+          "metre": {"cretic_paeonic": 33, "iambic": 179, "ionic": 24, "iambo_trochaic": 4, "trochaic": 30, "aeolo_choriambic": 5, "dochmiac": 16, "choriamb": 2, "anapaestic": 12, "dactylic": 17, "asynartetic": 1}
+        }
+      },
+      {
+        "name": "menelaos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "spartan"
+          ],
+          "fin_myth": "human",
+          "metre": {"iambic": 81, "dactylic": 24, "trochaic": 27, "dochmiac": 7, "cretic_paeonic": 6, "iambo_trochaic": 7, "ionic": 3, "anapaestic": 1}
+        }
+      },
+      {
+        "name": "apollon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "god",
+          "metre": {
+              "iambic": 34,
+              "ionic": 9,
+              "cretic_paeonic": 1,
+              "dochmiac": 2,
+              "trochaic": 4,
+              "anapaestic": 4
+            }
+        }
+      },
+      {
+        "name": "tyndareos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "spartan"
+          ],
+          "fin_myth": "human",
+          "metre": {"iambic": 73, "iambo_trochaic": 4, "cretic_paeonic": 4, "ionic": 10, "trochaic": 4, "aeolo_choriambic": 1}
+        }
+      },
+      {
+        "name": "phryx",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "slave",
+          "fin_country": "phrygian",
+          "fin_myth": "human",
+          "metre": {
+              "trochaic": 21,
+              "iambic": 62,
+              "cretic_paeonic": 7,
+              "dochmiac": 4,
+              "ionic": 16,
+              "aeolo_choriambic": 4,
+              "ithyphallic": 1
+            }
+        }
+      }
+    ]
+  },
+  {
+    "title": "suppliants",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "athena",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "goddess",
+          "metre": {
+              "trochaic": 4,
+              "iambic": 41,
+              "iambo_trochaic": 2,
+              "ionic": 4
+            }
+        }
+      },
+      {
+        "name": "paides",
+        "character_information": {
+          "fin_gender": "n",
+          "fin_nobility": "n_a",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 15,
+              "dactylic": 1,
+              "trochaic": 3
+            }
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "trochaic": 7,
+              "iambic": 74,
+              "aeolo_choriambic": 2,
+              "cretic_paeonic": 4,
+              "ionic": 12,
+              "asynartetic": 1,
+              "iambo_trochaic": 2,
+              "dochmiac": 2
+            }
+        }
+      },
+      {
+        "name": "iphis",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "argive"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 39,
+              "ionic": 8,
+              "trochaic": 8,
+              "dochmiac": 2
+            }
+        }
+      },
+      {
+        "name": "keryx",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "noble",
+            "common"
+          ],
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 64,
+              "iambo_trochaic": 8,
+              "cretic_paeonic": 1
+            }
+        }
+      },
+      {
+        "name": "aithra",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 74,
+              "ionic": 6,
+              "dactylic": 10,
+              "iambo_trochaic": 2
+            }
+        }
+      },
+      {
+        "name": "theseus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": "greek",
+          "fin_myth": [
+            "demigod",
+            "hero"
+          ],
+          "metre": {
+              "iambic": 258,
+              "iambo_trochaic": 8,
+              "ionic": 7,
+              "cretic_paeonic": 22,
+              "trochaic": 30,
+              "dochmiac": 9,
+              "dactylic": 17,
+              "aeolo_choriambic": 1
+              }
+        }
+      },
+      {
+        "name": "adrastos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "argive"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 135,
+              "trochaic": 9,
+              "dactylo_epitrite": 8,
+              "cretic_paeonic": 7,
+              "dochmiac": 6,
+              "ionic": 7,
+              "choriamb": 1,
+              "aeolo_choriambic": 2
+            }
+        }
+      },
+      {
+        "name": "euadne",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "argive"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 23,
+              "dochmiac": 1,
+              "aeolo_choriambic": 6,
+              "cretic_paeonic": 2,
+              "trochaic": 2
+            }
+        }
+      }
+    ]
+  },
+  {
+    "title": "heracles",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "lyssa",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "goddess",
+          "metre": {
+              "iambo_trochaic": 2,
+              "trochaic": 3,
+              "iambic": 19,
+              "ionic": 8,
+              "cretic_paeonic": 5
+            }
+        }
+      },
+      {
+        "name": "theseus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "athenian"
+          ],
+          "fin_myth": "demigod",
+          "metre": {
+              "iambic": 81,
+              "iambo_trochaic": 1,
+              "ionic": 1,
+              "aeolo_choriambic": 3
+            }
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "ionic": 6,
+              "iambic": 65,
+              "cretic_paeonic": 7,
+              "dochmiac": 2,
+              "trochaic": 12,
+              "asynartetic": 2,
+              "iambo_trochaic": 2,
+              "aeolo_choriambic": 2
+            }
+        }
+      },
+      {
+        "name": "amphitryon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "mycenaean",
+            "greek"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 188,
+              "cretic_paeonic": 7,
+              "trochaic": 26,
+              "dochmiac": 19,
+              "dactylic": 20,
+              "iambo_trochaic": 3,
+              "ionic": 15,
+              "dactylo_epitrite": 2,
+              "aeolo_choriambic": 1,
+              "anapaestic": 13
+            }
+        }
+      },
+      {
+        "name": "herakles",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "hero",
+          "fin_country": "greek",
+          "fin_myth": "demigod",
+          "metre": {
+              "dochmiac": 10,
+              "iambic": 213,
+              "trochaic": 36,
+              "cretic_paeonic": 16,
+              "dactylic": 20,
+              "iambo_trochaic": 2,
+              "anapaestic": 3,
+              "ionic": 3,
+              "aeolo_choriambic": 1}
+        }
+      },
+      {
+        "name": "megara",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 110,
+              "ionic": 9,
+              "cretic_paeonic": 20,
+              "asynartetic": 1,
+              "trochaic": 10,
+              "dochmiac": 2,
+              "hypodochmius": 1
+            }
+        }
+      },
+      {
+        "name": "lykos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 52,
+              "cretic_paeonic": 2,
+              "trochaic": 3,
+              "asynartetic": 1,
+              "ionic": 3
+            }
+        }
+      },
+      {
+        "name": "iris",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "goddess",
+          "metre": {
+              "trochaic": 12,
+              "iambo_trochaic": 2,
+              "dochmiac": 2,
+              "iambic": 6,
+              "dactylic": 6
+            }
+        }
+      }
+    ]
+  },
+  {
+    "title": "the-trojan-women",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "andromache",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "trojan"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 100,
+              "ionic": 1,
+              "asynartetic": 1,
+              "dochmiac": 1,
+              "dactylic": 17,
+              "iambo_trochaic": 2,
+              "trochaic": 8,
+              "cretic_paeonic": 7
+            }
+        }
+      },
+      {
+        "name": "talthybios",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "noble",
+          "fin_country": [
+            "greek",
+            "achaean"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "dochmiac": 3,
+              "iambic": 86,
+              "ionic": 2,
+              "trochaic": 4,
+              "cretic_paeonic": 15,
+              "anapaestic": 9
+            }
+        }
+      },
+      {
+        "name": "helene",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "trojan"
+          ],
+          "fin_myth": "demigod",
+          "metre": {
+              "iambic": 63,
+              "trochaic": 4
+            }
+        }
+      },
+      {
+        "name": "menelaos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "spartan"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 40,
+              "iambo_trochaic": 2,
+              "ionic": 3
+            }
+        }
+      },
+      {
+        "name": "hekabe",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "queen",
+          "fin_country": "trojan",
+          "fin_myth": "human",
+          "metre": {
+              "anapaestic": 42,
+              "ionic": 19,
+              "dactylic": 41,
+              "iambic": 224,
+              "trochaic": 43,
+              "choriamb": 1,
+              "dochmiac": 17,
+              "cretic_paeonic": 29,
+              "iambo_trochaic": 6,
+              "dactylo_epitrite": 2,
+              "hypodochmius": 1,
+              "asynartetic": 1}
+        }
+      },
+      {
+        "name": "athena",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "goddess",
+          "metre": {
+              "iambic": 22,
+              "cretic_paeonic": 4
+            }
+        }
+      },
+      {
+        "name": "kasandra",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": "trojan",
+          "fin_myth": "prophet",
+          "metre": {
+              "iambic": 77,
+              "dochmiac": 7,
+              "cretic_paeonic": 12,
+              "aeolo_choriambic": 3,
+              "ionic": 18,
+              "dactylic": 15,
+              "hypodochmius": 1,
+              "trochaic": 13
+            }
+        }
+      },
+      {
+        "name": "poseidon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "god",
+          "metre": {
+              "iambic": 62,
+              "ionic": 3,
+              "cretic_paeonic": 4,
+              "dochmiac": 2
+            }
+        }
+      }
+    ]
+  },
+  {
+    "title": "iphigenia-in-aulis",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "achilleus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "myrmidon"
+          ],
+          "fin_myth": [
+            "hero",
+            "demihuman"
+          ],
+          "metre": {
+              "iambic": 93,
+              "trochaic": 55,
+              "cretic_paeonic": 9,
+              "ionic": 7,
+              "iambo_trochaic": 2,
+              "dactylic": 25,
+              "dochmiac": 3
+            }
+        }
+      },
+      {
+        "name": "menelaos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "spartan"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "dochmiac": 8,
+              "lekythion": 1,
+              "iambic": 66,
+              "ionic": 19,
+              "cretic_paeonic": 11,
+              "trochaic": 21,
+              "iambo_trochaic": 2,
+              "aeolo_choriambic": 1
+            }
+        }
+      },
+      {
+        "name": "angelos_a",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "ionic": 8,
+              "dactylic": 10,
+              "iambic": 12
+            }
+        }
+      },
+      {
+        "name": "agamemnon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "mycenaean"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 210,
+              "anapaestic": 14,
+              "cretic_paeonic": 29,
+              "trochaic": 32,
+              "dactylic": 34,
+              "ionic": 19,
+              "aeolo_choriambic": 1,
+              "dochmiac": 6
+            }
+        }
+      },
+      {
+        "name": "presbytes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "common",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "anapaestic": 15,
+              "ionic": 25,
+              "dactylic": 3,
+              "choriamb": 2,
+              "iambic": 21
+            }
+        }
+      },
+      {
+        "name": "klytaimnestra",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "queen",
+          "fin_country": [
+            "greek",
+            "spartan",
+            "mycenaean"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "dochmiac": 11,
+              "iambic": 177,
+              "asynartetic": 3,
+              "ionic": 13,
+              "trochaic": 25,
+              "cretic_paeonic": 18,
+              "dactylic": 37,
+              "aeolo_choriambic": 2,
+              "iambo_trochaic": 2
+            }
+        }
+      },
+      {
+        "name": "iphigeneia",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "mycenaean"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 119,
+              "trochaic": 27,
+              "iambo_trochaic": 2,
+              "cretic_paeonic": 17,
+              "ionic": 22,
+              "anapaestic": 4,
+              "dactylic": 35,
+              "dochmiac": 3,
+              "aeolo_choriambic": 2
+            }
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 66,
+              "aeolo_choriambic": 2,
+              "trochaic": 4,
+              "iambo_trochaic": 2,
+              "dactylo_epitrite": 1
+            }
+        }
+      }
+    ]
+  },
+  {
+    "title": "suppliant-women",
+    "author": "Aeschylus",
+    "characters": [
+      {
+        "name": "danaos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "libyan",
+            "argive",
+            "greek"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 133,
+              "cretic_paeonic": 4,
+              "ionic": 26,
+              "dactylic": 24,
+              "dochmiac": 2
+            }
+        }
+      },
+      {
+        "name": "basileus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "argive"
+          ],
+          "fin_myth": "demigod",
+          "metre": {
+              "iambic": 152,
+              "ionic": 7,
+              "asynartetic": 1,
+              "aeolo_choriambic": 2,
+              "dactylo_epitrite": 1,
+              "iambo_trochaic": 4,
+              "cretic_paeonic": 12,
+              "dochmiac": 4,
+              "dactylic": 25,
+              "trochaic": 4
+            }
+        }
+      },
+      {
+        "name": "keryx",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "common",
+            "noble"
+          ],
+          "fin_country": "egyptian",
+          "fin_myth": "human",
+          "metre": {
+              "aeolo_choriambic": 1,
+              "anapaestic": 1,
+              "ionic": 7,
+              "dochmiac": 1,
+              "iambic": 23,
+              "trochaic": 8
+            }
+        }
+      },
+      {
+        "name": "danais",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "libyan",
+            "argive",
+            "greek"
+          ],
+          "fin_myth": "human",
+          "metre": {"ionic": 2}
+        }
+      },
+      {
+        "name": "therapaina",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "servant",
+          "fin_country": "libyan",
+          "fin_myth": "human",
+          "metre": {
+              "ionic": 6}
+        }
+      }
+    ]
+  },
+  {
+    "title": "persians",
+    "author": "Aeschylus",
+    "characters": [
+      {
+        "name": "atossa",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "queen",
+          "fin_country": "persian",
+          "fin_myth": "human",
+          "metre":  {
+              "dactylic": 7,
+              "trochaic": 15,
+              "iambic": 121,
+              "cretic_paeonic": 18,
+              "ionic": 47,
+              "iambo_trochaic": 2,
+              "aeolo_choriambic": 2
+            }
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "persian",
+          "fin_myth": "human",
+          "metre": {
+              "ionic": 27,
+              "iambic": 140,
+              "cretic_paeonic": 19,
+              "asynartetic": 3,
+              "trochaic": 11,
+              "dactylic": 5
+            }
+        }
+      },
+      {
+        "name": "eidolon_dareiou",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": "persian",
+          "fin_myth": "ghost",
+          "metre": {
+              "iambic": 75,
+              "dactylic": 6,
+              "trochaic": 18,
+              "ionic": 37,
+              "dochmiac": 2,
+              "iambo_trochaic": 2
+            }
+        }
+      },
+      {
+        "name": "xerxes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": "persian",
+          "fin_myth": "human",
+          "metre": {
+              "asynartetic": 1,
+              "anapaestic": 8,
+              "ionic": 18,
+              "dochmiac": 5,
+              "iambic": 14,
+              "trochaic": 4
+              }
+        }
+      }
+    ]
+  },
+  {
+    "title": "libation-bearers",
+    "author": "Aeschylus",
+    "characters": [
+      {
+        "name": "orestes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "mycenaean",
+            "spartan",
+            "argive"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 260,
+              "cretic_paeonic": 9,
+              "iambo_trochaic": 6,
+              "dochmiac": 7,
+              "aeolo_choriambic": 3,
+              "hypodochmius": 1,
+              "trochaic": 3,
+              "dactylic": 25
+            }
+        }
+      },
+      {
+        "name": "elektra",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "mycenaean"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 130,
+              "ionic": 12,
+              "dochmiac": 6,
+              "trochaic": 8,
+              "iambo_trochaic": 4,
+              "aeolo_choriambic": 6
+            }
+        }
+      },
+      {
+        "name": "oiketes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "servant",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 7
+            }
+        }
+      },
+      {
+        "name": "klytaimnestra",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "queen",
+          "fin_country": [
+            "greek",
+            "spartan",
+            "mycenaean"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 43,
+              "dochmiac": 2,
+              "asynartetic": 1,
+              "cretic_paeonic": 4
+            }
+        }
+      },
+      {
+        "name": "trophos",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "servant",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 35,
+              "ionic": 3,
+              "cretic_paeonic": 2
+            }
+        }
+      },
+      {
+        "name": "aigisthos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "mycenaean"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 15
+            }
+        }
+      },
+      {
+        "name": "pylades",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "prince",
+          "fin_country": [
+            "greek",
+            "phocian"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 3
+            }
+        }
+      }
+    ]
+  },
+  {
+    "title": "oedipus-at-colonus",
+    "author": "Sophocles",
+    "characters": [
+      {
+        "name": "theseus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "king",
+            "hero"
+          ],
+          "fin_country": [
+            "greek",
+            "athenian"
+          ],
+          "fin_myth": [
+            "demigod",
+            "hero"
+          ],
+          "metre": {
+              "iambic": 141,
+              "aeolo_choriambic": 2,
+              "cretic_paeonic": 17,
+              "dactylic": 22,
+              "trochaic": 9,
+              "dochmiac": 5,
+              "anapaestic": 4}
+        }
+      },
+      {
+        "name": "xenos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "common",
+          "fin_country": [
+            "greek",
+            "colonian"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 24,
+              "iambo_trochaic": 1,
+              "trochaic": 12,
+              "cretic_paeonic": 1
+            }
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 78,
+              "ionic": 1,
+              "dochmiac": 2,
+              "cretic_paeonic": 4,
+              "dactylic": 5,
+              "asynartetic": 1
+            }
+        }
+      },
+      {
+        "name": "oidipous",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 449,
+              "dochmiac": 6,
+              "iambo_trochaic": 10,
+              "ionic": 5,
+              "anapaestic": 7,
+              "aeolo_choriambic": 8,
+              "dactylic": 26,
+              "trochaic": 27,
+              "cretic_paeonic": 34,
+              "asynartetic": 4,
+              "lekythion": 1
+            }
+        }
+      },
+      {
+        "name": "polyneikes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "anapaestic": 3,
+              "iambic": 98,
+              "cretic_paeonic": 13,
+              "ionic": 10,
+              "trochaic": 11
+            }
+        }
+      },
+      {
+        "name": "kreon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "cretic_paeonic": 8,
+              "aeolo_choriambic": 1,
+              "iambic": 76,
+              "dochmiac": 2,
+              "dactylic": 15,
+              "asynartetic": 1,
+              "iambo_trochaic": 2
+            }
+        }
+      },
+      {
+        "name": "ismene",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "dochmiac": 4,
+              "iambic": 59,
+              "trochaic": 5,
+              "cretic_paeonic": 4,
+              "aeolo_choriambic": 1,
+              "anapaestic": 5,
+              "ionic": 3
+            }
+        }
+      },
+      {
+        "name": "antigone",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 84,
+              "ionic": 10,
+              "cretic_paeonic": 11,
+              "dochmiac": 1,
+              "dactylic": 19,
+              "asynartetic": 2,
+              "trochaic": 14,
+              "iambo_trochaic": 5,
+              "hypodochmius": 1,
+              "aeolo_choriambic": 2,
+              "anapaestic": 4
+            }
+        }
+      }
+    ]
+  },
+  {
+    "title": "antigone",
+    "author": "Sophocles",
+    "characters": [
+      {
+        "name": "phylax",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "common",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 94,
+              "dochmiac": 3,
+              "cretic_paeonic": 12,
+              "asynartetic": 1,
+              "iambo_trochaic": 4
+            }
+        }
+      },
+      {
+        "name": "exangelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 10,
+              "cretic_paeonic": 2
+            }
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 68,
+              "iambo_trochaic": 2,
+              "ionic": 3,
+              "trochaic": 8,
+              "aeolo_choriambic": 1,
+              "dactylic": 5
+            }
+        }
+      },
+      {
+        "name": "teiresias",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "seer",
+            "noble"
+          ],
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "demihuman",
+          "metre": {
+              "iambic": 67,
+              "trochaic": 8,
+              "asynartetic": 1
+            }
+        }
+      },
+      {
+        "name": "ismene",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "ionic": 3,
+              "iambic": 47,
+              "iambo_trochaic": 2,
+              "aeolo_choriambic": 1,
+              "trochaic": 3,
+              "asynartetic": 1
+            }
+        }
+      },
+      {
+        "name": "kreon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "trochaic": 10,
+              "iambic": 274,
+              "aeolo_choriambic": 3,
+              "cretic_paeonic": 20,
+              "iambo_trochaic": 2,
+              "ionic": 9,
+              "dactylic": 24,
+              "asynartetic": 2,
+              "dochmiac": 13}
+        }
+      },
+      {
+        "name": "antigone",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 142,
+              "cretic_paeonic": 15,
+              "ionic": 9,
+              "trochaic": 12,
+              "aeolo_choriambic": 7,
+              "dochmiac": 2,
+              "anapaestic": 4,
+              "dactylic": 14
+            }
+        }
+      },
+      {
+        "name": "haimon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "prince",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 48,
+              "dactylic": 15,
+              "cretic_paeonic": 8
+            }
+        }
+      },
+      {
+        "name": "eurydike",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "noble",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre":  {
+              "iambic": 9
+            }
+        }
+      }
+    ]
+  },
+  {
+    "title": "ajax",
+    "author": "Sophocles",
+    "characters": [
+      {
+        "name": "menelaos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "spartan"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 51,
+              "dactylic": 6,
+              "trochaic": 3,
+              "cretic_paeonic": 8
+            }
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 57,
+              "dactylic": 5,
+              "dochmiac": 2,
+              "cretic_paeonic": 4,
+              "ionic": 3
+            }
+        }
+      },
+      {
+        "name": "odysseus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "ithaca"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "cretic_paeonic": 9,
+              "iambic": 76,
+              "trochaic": 4
+            }
+        }
+      },
+      {
+        "name": "teukros",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": "salamine",
+          "fin_myth": "human",
+          "metre": {
+              "trochaic": 15,
+              "iambic": 185,
+              "ionic": 3,
+              "cretic_paeonic": 4,
+              "anapaestic": 6,
+              "aeolo_choriambic": 3}
+        }
+      },
+      {
+        "name": "athena",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "goddess",
+          "metre": {
+              "iambic": 64,
+              "trochaic": 5,
+              "aeolo_choriambic": 1,
+              "dactylic": 5,
+              "iambo_trochaic": 2,
+              "cretic_paeonic": 4
+            }
+        }
+      },
+      {
+        "name": "agamemnon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "mycenaean"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 52,
+              "cretic_paeonic": 4,
+              "aeolo_choriambic": 1
+            }
+        }
+      },
+      {
+        "name": "aias",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "king",
+            "hero"
+          ],
+          "fin_country": [
+            "greek",
+            "salamine"
+          ],
+          "fin_myth": "hero",
+          "metre": {
+              "dochmiac": 7,
+              "iambic": 222,
+              "asynartetic": 6,
+              "anapaestic": 2,
+              "aeolo_choriambic": 1,
+              "iambo_trochaic": 6,
+              "trochaic": 12,
+              "dactylic": 20,
+              "ionic": 3,
+              "cretic_paeonic": 7
+            }
+        }
+      },
+      {
+        "name": "tekmessa",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": "phrygian",
+          "fin_myth": "human",
+          "metre": {
+              "ionic": 8,
+              "anapaestic": 11,
+              "cretic_paeonic": 18,
+              "dactylic": 9,
+              "iambic": 130,
+              "trochaic": 21,
+              "iambo_trochaic": 3
+            }
+        }
+      }
+    ]
+  },
+  {
+    "title": "rhesus",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "mousa",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "muse",
+          "metre": {
+              "iambic": 54,
+              "dochmiac": 3,
+              "aeolo_choriambic": 2,
+              "ionic": 12,
+              "dactylic": 5
+            }
+        }
+      },
+      {
+        "name": "odysseus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "ithaca"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "trochaic": 12,
+              "iambic": 9,
+              "dactylic": 10
+            }
+        }
+      },
+      {
+        "name": "aineias",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "prince",
+          "fin_country": "trojan",
+          "fin_myth": "hero",
+          "metre": {
+              "dochmiac": 2,
+              "iambic": 27,
+              "cretic_paeonic": 4
+            }
+        }
+      },
+      {
+        "name": "heniochos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "noble",
+          "fin_country": "thracian",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 67,
+              "cretic_paeonic": 2,
+              "ionic": 19,
+              "anapaestic": 4,
+              "dactylic": 4,
+              "trochaic": 2,
+              "dochmiac": 2,
+              "asynartetic": 1,
+              "aeolo_choriambic": 1
+            }
+        }
+      },
+      {
+        "name": "athena",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "goddess",
+          "metre": {
+              "iambic": 58
+            }
+        }
+      },
+      {
+        "name": "alexandros",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "prince",
+          "fin_country": "trojan",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 12
+            }
+        }
+      },
+      {
+        "name": "angelos_poimen",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "peasant",
+            "messenger"
+          ],
+          "fin_country": "trojan",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 31,
+              "iambo_trochaic": 3,
+              "asynartetic": 1
+            }
+        }
+      },
+      {
+        "name": "dolon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "noble",
+          "fin_country": "trojan",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 29,
+              "trochaic": 4,
+              "ionic": 6,
+              "iambo_trochaic": 2
+            }
+        }
+      },
+      {
+        "name": "diomedes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "argive"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 15,
+              "dochmiac": 2,
+              "ionic": 3
+            }
+        }
+      },
+      {
+        "name": "hektor",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "prince",
+          "fin_country": "trojan",
+          "fin_myth": "human",
+          "metre": {
+              "anapaestic": 8,
+              "aeolo_choriambic": 1,
+              "ionic": 9,
+              "iambic": 184,
+              "trochaic": 11,
+              "cretic_paeonic": 12,
+              "dactylic": 5,
+              "asynartetic": 1
+            }
+        }
+      },
+      {
+        "name": "resos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": "thracian",
+          "fin_myth": [
+            "demihuman",
+            "demigod"
+          ],
+          "metre": {
+              "iambic": 45,
+              "dochmiac": 4,
+              "cretic_paeonic": 4,
+              "asynartetic": 1,
+              "ionic": 3,
+              "iambo_trochaic": 2
+            }
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "trojan",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 36,
+              "iambo_trochaic": 2,
+              "asynartetic": 1
+            }
+        }
+      }
+    ]
+  },
+  {
+    "title": "phoenissae",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 212,
+              "trochaic": 29,
+              "cretic_paeonic": 20,
+              "dochmiac": 4,
+              "dactylic": 16,
+              "iambo_trochaic": 8,
+              "ionic": 23,
+              "anapaestic": 3
+            }
+        }
+      },
+      {
+        "name": "teiresias",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "seer",
+            "noble"
+          ],
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "demihuman",
+          "metre": {
+            "iambic": 75,
+            "ionic": 3,
+            "dochmiac": 4,
+            "cretic_paeonic": 10,
+            "iambo_trochaic": 1,
+            "trochaic": 5
+          }
+        }
+      },
+      {
+        "name": "polyneikes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 118,
+              "iambo_trochaic": 2,
+              "trochaic": 12,
+              "cretic_paeonic": 2,
+              "ionic": 6,
+              "dactylic": 8
+            }
+        }
+      },
+      {
+        "name": "iokaste",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "queen",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 180,
+              "trochaic": 35,
+              "ionic": 21,
+              "dactylic": 14,
+              "iambo_trochaic": 7,
+              "dochmiac": 5,
+              "cretic_paeonic": 13,
+              "aeolo_choriambic": 4,
+              "anapaestic": 3
+            }
+        }
+      },
+      {
+        "name": "oidipous",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "ionic": 11,
+              "aeolo_choriambic": 3,
+              "dactylic": 6,
+              "cretic_paeonic": 8,
+              "iambic": 38,
+              "trochaic": 11,
+              "dochmiac": 2}
+        }
+      },
+      {
+        "name": "antigone",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 66,
+              "dochmiac": 20,
+              "cretic_paeonic": 15,
+              "aeolo_choriambic": 2,
+              "dactylic": 47,
+              "ionic": 14,
+              "asynartetic": 1,
+              "iambo_trochaic": 6,
+              "anapaestic": 6,
+              "choriamb": 4,
+              "trochaic": 10
+            }
+        }
+      },
+      {
+        "name": "menoikeus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "noble",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "trochaic": 8,
+              "iambic": 24,
+              "dochmiac": 3,
+              "iambo_trochaic": 1,
+              "cretic_paeonic": 4
+            }
+        }
+      },
+      {
+        "name": "paidagogos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "servant",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "aeolo_choriambic": 1,
+              "iambic": 46,
+              "cretic_paeonic": 4,
+              "ionic": 4
+            }
+        }
+      },
+      {
+        "name": "kreon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 121,
+              "aeolo_choriambic": 1,
+              "trochaic": 5,
+              "dochmiac": 1,
+              "cretic_paeonic": 18,
+              "ionic": 7,
+              "iambo_trochaic": 2
+            }
+        }
+      },
+      {
+        "name": "eteokles",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 89,
+              "ionic": 14,
+              "trochaic": 25,
+              "iambo_trochaic": 3,
+              "anapaestic": 13,
+              "aeolo_choriambic": 1,
+              "asynartetic": 2,
+              "cretic_paeonic": 4
+            }
+        }
+      }
+    ]
+  },
+  {
+    "title": "philoctetes",
+    "author": "Sophocles",
+    "characters": [
+      {
+        "name": "philoktetes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "hero",
+            "noble"
+          ],
+          "fin_country": [
+            "greek",
+            "meliboean"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 401,
+              "iambo_trochaic": 12,
+              "dactylo_epitrite": 2,
+              "ionic": 42,
+              "cretic_paeonic": 37,
+              "dochmiac": 7,
+              "anapaestic": 15,
+              "trochaic": 44,
+              "aeolo_choriambic": 19,
+              "dactylic": 27,
+              "choriamb": 1}
+        }
+      },
+      {
+        "name": "herakles",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "hero",
+            "noble"
+          ],
+          "fin_country": "greek",
+          "fin_myth": "demigod",
+          "metre": {
+              "anapaestic": 10,
+              "iambic": 18,
+              "aeolo_choriambic": 1,
+              "trochaic": 4,
+              "ionic": 3
+            }
+        }
+      },
+      {
+        "name": "emporos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "common",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 58,
+              "dochmiac": 3
+            }
+        }
+      },
+      {
+        "name": "odysseus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "ithaca"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 105,
+              "ionic": 6,
+              "trochaic": 12,
+              "iambo_trochaic": 2,
+              "cretic_paeonic": 16,
+              "dochmiac": 2,
+              "asynartetic": 1,
+              "dactylic": 4
+            }
+        }
+      },
+      {
+        "name": "neoptolemos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "noble",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 284,
+              "iambo_trochaic": 6,
+              "trochaic": 24,
+              "aeolo_choriambic": 3,
+              "dactylo_epitrite": 1,
+              "anapaestic": 4,
+              "ionic": 19,
+              "dactylic": 41,
+              "cretic_paeonic": 10,
+              "asynartetic": 1
+            }
+        }
+      }
+    ]
+  },
+  {
+    "title": "trachiniae",
+    "author": "Sophocles",
+    "characters": [
+      {
+        "name": "therapaina",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "servant",
+          "fin_country": [
+            "greek",
+            "calydonian"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 12
+            }
+        }
+      },
+      {
+        "name": "presbys",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "common",
+          "fin_country": [
+            "greek",
+            "calydonian"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "ionic": 2,
+              "aeolo_choriambic": 1,
+              "anapaestic": 2,
+              "iambic": 6,
+              "dactylic": 2
+            }
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": [
+            "greek",
+            "calydonian"
+          ],
+          "fin_myth": "human",
+          "metre": {
+          "cretic_paeonic": 8,
+          "iambic": 54,
+          "trochaic": 4,
+          "iambo_trochaic": 1
+        }
+        }
+      },
+      {
+        "name": "trophos",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "servant",
+          "fin_country": [
+            "greek",
+            "calydonian"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 46,
+              "iambo_trochaic": 3,
+              "ionic": 3,
+              "choriamb": 2,
+              "trochaic": 5
+            }
+        }
+      },
+      {
+        "name": "hyllos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "noble",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 153,
+              "iambo_trochaic": 4,
+              "cretic_paeonic": 12,
+              "trochaic": 8,
+              "aeolo_choriambic": 1,
+              "dochmiac": 3,
+              "anapaestic": 11,
+              "dactylic": 3
+            }
+        }
+      },
+      {
+        "name": "herakles",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "hero",
+            "noble"
+          ],
+          "fin_country": "greek",
+          "fin_myth": "demigod",
+          "metre": {
+              "anapaestic": 9,
+              "ionic": 18,
+              "dactylic": 17,
+              "aeolo_choriambic": 1,
+              "iambic": 125,
+              "cretic_paeonic": 11,
+              "dactylo_epitrite": 1,
+              "trochaic": 12,
+              "asynartetic": 1,
+              "iambo_trochaic": 2
+            }
+        }
+      },
+      {
+        "name": "deianeira",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "calydonian"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 312,
+              "dochmiac": 8,
+              "trochaic": 28,
+              "ionic": 3,
+              "dactylic": 9,
+              "cretic_paeonic": 11,
+              "asynartetic": 5,
+              "iambo_trochaic": 2
+            }
+        }
+      },
+      {
+        "name": "lichas",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "servant",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "dochmiac": 2,
+              "iambic": 88,
+              "ionic": 4,
+              "cretic_paeonic": 11,
+              "aeolo_choriambic": 1,
+              "trochaic": 4,
+              "iambo_trochaic": 2
+            }
+        }
+      }
+    ]
+  },
+  {
+    "title": "bacchae",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "angelos_b",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre":  {
+              "iambic": 6
+            }
+        }
+      },
+      {
+        "name": "dionysos",
+        "character_information": {
+          "fin_gender": [
+            "m",
+            "n"
+          ],
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "god",
+          "metre": {
+              "iambic": 132,
+              "trochaic": 25,
+              "dochmiac": 10,
+              "cretic_paeonic": 29,
+              "ionic": 72,
+              "dactylic": 17,
+              "lekythion": 1,
+              "aeolo_choriambic": 1,
+              "iambo_trochaic": 2
+            }
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "cretic_paeonic": 18,
+              "trochaic": 27,
+              "iambic": 135,
+              "ionic": 44,
+              "dochmiac": 10,
+              "iambo_trochaic": 1,
+              "anapaestic": 1
+            }
+        }
+      },
+      {
+        "name": "teiresias",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "seer",
+            "noble"
+          ],
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "demihuman",
+          "metre": {
+              "iambic": 76,
+              "ionic": 6,
+              "anapaestic": 3,
+              "cretic_paeonic": 10,
+              "aeolo_choriambic": 1,
+              "trochaic": 6
+            }
+        }
+      },
+      {
+        "name": "therapon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "servant",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 10,
+              "ionic": 2,
+              "trochaic": 8
+            }
+        }
+      },
+      {
+        "name": "agaue",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "queen",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "dochmiac": 6,
+              "iambic": 30,
+              "dactylo_epitrite": 1,
+              "iambo_trochaic": 3,
+              "aeolo_choriambic": 2,
+              "dactylic": 5,
+              "anapaestic": 4,
+              "cretic_paeonic": 4,
+              "trochaic": 7,
+              "ionic": 13
+            }
+        }
+      },
+      {
+        "name": "kadmos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "hero",
+          "metre": {
+              "iambic": 75,
+              "ionic": 23,
+              "trochaic": 13,
+              "dochmiac": 4,
+              "cretic_paeonic": 9,
+              "asynartetic": 1,
+              "iambo_trochaic": 3,
+              "dactylic": 8,
+              "anapaestic": 2
+            }
+        }
+      },
+      {
+        "name": "pentheus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "trochaic": 20,
+              "iambic": 98,
+              "dochmiac": 2,
+              "ionic": 44,
+              "cretic_paeonic": 16,
+              "iambo_trochaic": 1
+            }
+        }
+      }
+    ]
+  },
+  {
+    "title": "eumenides",
+    "author": "Aeschylus",
+    "characters": [
+      {
+        "name": "pythias",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "priestess",
+          "fin_country": [
+            "greek",
+            "delphian"
+          ],
+          "fin_myth": "prophet",
+          "metre":  {
+              "cretic_paeonic": 4,
+              "iambic": 51,
+              "dactylic": 5,
+              "trochaic": 8
+            }
+        }
+      },
+      {
+        "name": "apollon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "god",
+          "metre": {
+              "trochaic": 8,
+              "cretic_paeonic": 15,
+              "iambic": 114,
+              "asynartetic": 1
+            }
+        }
+      },
+      {
+        "name": "orestes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "mycenaean",
+            "spartan",
+            "argive"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 81,
+              "trochaic": 8,
+              "aeolo_choriambic": 2,
+              "cretic_paeonic": 4,
+              "iambo_trochaic": 2,
+              "asynartetic": 1
+            }
+        }
+      },
+      {
+        "name": "klytaimnestras_eidolon",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "queen",
+          "fin_country": [
+            "greek",
+            "spartan",
+            "mycenaean"
+          ],
+          "fin_myth": "ghost",
+          "metre": {
+              "iambic": 31,
+              "ionic": 12
+            }
+        }
+      },
+      {
+        "name": "athena",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "goddess",
+          "metre":{
+              "iambic": 163,
+              "trochaic": 19,
+              "ionic": 21,
+              "asynartetic": 3,
+              "cretic_paeonic": 4,
+              "dactylic": 11,
+              "aeolo_choriambic": 2,
+              "choriamb": 4,
+              "anapaestic": 13
+            }
+        }
+      }
+    ]
+  },
+  {
+    "title": "helen",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "graus",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "common",
+          "fin_country": "egyptian",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 19,
+              "ionic": 4,
+              "cretic_paeonic": 4
+            }
+        }
+      },
+      {
+        "name": "theoklymenos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "noble",
+          "fin_country": "greek",
+          "fin_myth": "prophet",
+          "metre": {
+              "iambic": 90,
+              "trochaic": 23,
+              "cretic_paeonic": 19,
+              "ionic": 17,
+              "aeolo_choriambic": 1,
+              "iambo_trochaic": 4,
+              "dactylic": 10
+            }
+        }
+      },
+      {
+        "name": "dioskoroi",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "noble",
+          "fin_country": "greek",
+          "fin_myth": "demigod",
+          "metre": {
+              "iambic": 32,
+              "asynartetic": 1,
+              "trochaic": 8
+            }
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "n_a",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 126,
+              "ionic": 12,
+              "trochaic": 22,
+              "asynartetic": 1,
+              "dactylic": 9,
+              "cretic_paeonic": 9,
+              "iambo_trochaic": 2
+            }
+        }
+      },
+      {
+        "name": "teukros",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "salamine"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 43,
+              "trochaic": 7,
+              "cretic_paeonic": 10
+            }
+        }
+      },
+      {
+        "name": "theonoe",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "noble",
+          "fin_country": [
+            "greek",
+            "mycenaean"
+          ],
+          "fin_myth": "prophet",
+          "metre": {
+              "iambic": 52,
+              "dochmiac": 2,
+              "ionic": 7,
+              "trochaic": 4
+            }
+        }
+      },
+      {
+        "name": "therapon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "servant",
+          "fin_country": "n_a",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 2,
+              "dochmiac": 2
+            }
+        }
+      },
+      {
+        "name": "meneleos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "spartan"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 256,
+              "dochmiac": 9,
+              "aeolo_choriambic": 1,
+              "cretic_paeonic": 24,
+              "trochaic": 29,
+              "iambo_trochaic": 4,
+              "asynartetic": 1,
+              "ionic": 14,
+              "dactylic": 4
+            }
+        }
+      },
+      {
+        "name": "helene",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "trojan"
+          ],
+          "fin_myth": "demigod",
+          "metre":  {
+              "iambic": 387,
+              "iambo_trochaic": 12,
+              "cretic_paeonic": 37,
+              "dactylic": 38,
+              "dochmiac": 17,
+              "trochaic": 37,
+              "ionic": 32,
+              "aeolo_choriambic": 5,
+              "anapaestic": 6,
+              "asynartetic": 1,
+              "lekythion": 1
+            }
+        }
+      }
+    ]
+  },
+  {
+    "title": "seven-against-thebes",
+    "author": "Aeschylus",
+    "characters": [
+      {
+        "name": "eteokles",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 229,
+              "dochmiac": 4,
+              "dactylic": 10,
+              "cretic_paeonic": 8,
+              "trochaic": 12,
+              "asynartetic": 1,
+              "ionic": 4,
+              "iambo_trochaic": 8
+            }
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+          "iambic": 149,
+          "asynartetic": 2,
+          "aeolo_choriambic": 2,
+          "iambo_trochaic": 2,
+          "dochmiac": 2,
+          "ionic": 6,
+          "cretic_paeonic": 12,
+          "trochaic": 4
+        }
+        }
+      },
+      {
+        "name": "antigone",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "trochaic": 3,
+              "iambic": 27,
+              "ionic": 4,
+              "dochmiac": 1
+            }
+        }
+      },
+      {
+        "name": "ismene",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "trochaic": 2,
+              "iambic": 9,
+              "dochmiac": 1
+            }
+        }
+      },
+      {
+        "name": "keryx",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "noble",
+            "common"
+          ],
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "ionic": 3,
+              "iambic": 9,
+              "iambo_trochaic": 2,
+              "cretic_paeonic": 16
+            }
+        }
+      }
+    ]
+  },
+  {
+    "title": "oedipus-tyrannus",
+    "author": "Sophocles",
+    "characters": [
+      {
+        "name": "exangelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 60,
+              "dochmiac": 1,
+              "cretic_paeonic": 2,
+              "trochaic": 8,
+              "iambo_trochaic": 2
+            }
+        }
+      },
+      {
+        "name": "hiereus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "priest",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "aeolo_choriambic": 2,
+              "iambic": 39,
+              "trochaic": 4,
+              "dactylic": 5,
+              "cretic_paeonic": 4
+            }
+        }
+      },
+      {
+        "name": "oidipous",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 540,
+              "ionic": 17,
+              "iambo_trochaic": 11,
+              "aeolo_choriambic": 4,
+              "asynartetic": 1,
+              "dochmiac": 13,
+              "cretic_paeonic": 30,
+              "trochaic": 40,
+              "anapaestic": 2,
+              "dactylic": 9
+            }
+        }
+      },
+      {
+        "name": "teiresias",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "seer",
+            "noble"
+          ],
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "demihuman",
+          "metre": {
+              "iambic": 67,
+              "iambo_trochaic": 2,
+              "ionic": 3,
+              "cretic_paeonic": 4
+            }
+        }
+      },
+      {
+        "name": "therapon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "peasant",
+            "servant"
+          ],
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 29
+            }
+        }
+      },
+      {
+        "name": "iokaste",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "queen",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 98,
+              "trochaic": 12,
+              "dactylic": 4,
+              "aeolo_choriambic": 1
+            }
+        }
+      },
+      {
+        "name": "kreon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 123,
+              "trochaic": 3,
+              "aeolo_choriambic": 1
+            }
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": [
+            "corinthian",
+            "greek"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 45,
+              "trochaic": 10,
+              "cretic_paeonic": 8,
+              "iambo_trochaic": 4
+            }
+        }
+      }
+    ]
+  },
+  {
+    "title": "iphigenia-in-tauris",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "orestes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "mycenaean",
+            "spartan",
+            "argive"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 220,
+              "ionic": 18,
+              "trochaic": 29,
+              "dochmiac": 7,
+              "cretic_paeonic": 18,
+              "aeolo_choriambic": 1
+            }
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "n_a",
+          "fin_myth": "human",
+          "metre": {
+              "trochaic": 17,
+              "iambic": 79,
+              "ionic": 13,
+              "cretic_paeonic": 20,
+              "iambo_trochaic": 2
+            }
+        }
+      },
+      {
+        "name": "pylades",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "prince",
+          "fin_country": [
+            "greek",
+            "phocian"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 50,
+              "ionic": 3,
+              "asynartetic": 1,
+              "cretic_paeonic": 4,
+              "dochmiac": 2
+            }
+        }
+      },
+      {
+        "name": "athena",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "god",
+          "metre": {
+              "iambic": 35,
+              "ionic": 9,
+              "asynartetic": 1 }
+        }
+      },
+      {
+        "name": "boukolos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "peasant",
+          "fin_country": "taurian",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 64,
+              "asynartetic": 1,
+              "ionic": 11,
+              "trochaic": 10,
+              "cretic_paeonic": 4,
+              "iambo_trochaic": 4,
+              "dochmiac": 2
+            }
+        }
+      },
+      {
+        "name": "thoas",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": "taurian",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 52,
+              "cretic_paeonic": 8,
+              "aeolo_choriambic": 1,
+              "trochaic": 6,
+              "lekythion": 1
+            }
+        }
+      },
+      {
+        "name": "iphigeneia",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "mycenaean"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 355,
+              "dochmiac": 22,
+              "iambo_trochaic": 10,
+              "trochaic": 45,
+              "asynartetic": 1,
+              "ionic": 17,
+              "cretic_paeonic": 43,
+              "dactylic": 32,
+              "aeolo_choriambic": 4,
+              "anapaestic": 8
+            }
+        }
+      }
+    ]
+  },
+  {
+    "title": "prometheus-bound",
+    "author": "Aeschylus",
+    "characters": [
+      {
+        "name": "kratos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "god",
+          "metre": {
+              "iambic": 19
+            }
+        }
+      },
+      {
+        "name": "hephaistos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "god",
+          "metre": {
+              "iambic": 52,
+              "dochmiac": 8,
+              "trochaic": 8
+            }
+        }
+      },
+      {
+        "name": "prometheus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "titan",
+          "metre": {
+              "iambic": 423,
+              "iambo_trochaic": 6,
+              "cretic_paeonic": 36,
+              "dochmiac": 7,
+              "ionic": 26,
+              "anapaestic": 19,
+              "dactylic": 27,
+              "aeolo_choriambic": 3,
+              "trochaic": 8,
+              "asynartetic": 1}
+        }
+      },
+      {
+        "name": "okeanos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "titan",
+          "metre": {
+              "ionic": 6,
+              "anapaestic": 4,
+              "iambic": 33,
+              "dochmiac": 2,
+              "trochaic": 3
+            }
+        }
+      },
+      {
+        "name": "io",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "nymph",
+          "metre": {
+              "anapaestic": 8,
+              "iambic": 56,
+              "dactylic": 7,
+              "aeolo_choriambic": 3,
+              "dochmiac": 10,
+              "trochaic": 6,
+              "iambo_trochaic": 2,
+              "ionic": 6,
+              "cretic_paeonic": 4,
+              "asynartetic": 1
+            }
+        }
+      },
+      {
+        "name": "hermes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "god",
+          "metre": {
+              "iambic": 48,
+              "ionic": 6,
+              "dactylic": 4,
+              "anapaestic": 4,
+              "aeolo_choriambic": 1
+            }
+        }
+      }
+    ]
+  },
+  {
+    "title": "electraa",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "orestes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "mycenaean",
+            "spartan",
+            "argive"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "ionic": 5,
+              "iambic": 175,
+              "iambo_trochaic": 6,
+              "cretic_paeonic": 13,
+              "dactylic": 9,
+              "trochaic": 17,
+              "lekythion": 1,
+              "dochmiac": 1,
+              "anapaestic": 8
+            }
+        }
+      },
+      {
+        "name": "presbys",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "servant",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 84,
+              "ionic": 4,
+              "trochaic": 8,
+              "anapaestic": 1,
+              "cretic_paeonic": 3
+            }
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 74,
+              "ionic": 5,
+              "aeolo_choriambic": 1,
+              "dochmiac": 4,
+              "asynartetic": 1,
+              "trochaic": 8
+            }
+        }
+      },
+      {
+        "name": "klytaimnestra",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "queen",
+          "fin_country": [
+            "greek",
+            "spartan",
+            "mycenaean"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 61,
+              "ionic": 10,
+              "trochaic": 3,
+              "cretic_paeonic": 1,
+              "asynartetic": 1
+            }
+        }
+      },
+      {
+        "name": "autourgos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "noble",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 74,
+              "cretic_paeonic": 4,
+              "trochaic": 7,
+              "ionic": 5,
+              "dactylic": 9
+            }
+        }
+      },
+      {
+        "name": "elektra",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "mycenaean"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 299,
+              "iambo_trochaic": 18,
+              "aeolo_choriambic": 14,
+              "ionic": 15,
+              "dactylic": 35,
+              "dochmiac": 13,
+              "anapaestic": 5,
+              "trochaic": 21,
+              "cretic_paeonic": 8,
+              "asynartetic": 2,
+              "dactylo_epitrite": 1
+            }
+        }
+      }
+    ]
+  },
+  {
+    "title": "hecuba",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "talthybios",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 65,
+              "ionic": 3,
+              "asynartetic": 1,
+              "dactylic": 5,
+              "trochaic": 7,
+              "aeolo_choriambic": 1
+            }
+        }
+      },
+      {
+        "name": "therapaina",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "slave",
+          "fin_country": "n_a",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 10,
+              "iambo_trochaic": 5
+            }
+        }
+      },
+      {
+        "name": "polymestor",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": "thracian",
+          "fin_myth": "human",
+          "metre": {
+              "trochaic": 17,
+              "anapaestic": 9,
+              "dactylic": 15,
+              "iambic": 105,
+              "dochmiac": 6,
+              "cretic_paeonic": 11,
+              "ionic": 1,
+              "aeolo_choriambic": 1
+            }
+        }
+      },
+      {
+        "name": "polydorou_eidolon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "prince",
+          "fin_country": "trojan",
+          "fin_myth": "ghost",
+          "metre": {
+              "iambic": 37,
+              "cretic_paeonic": 1,
+              "trochaic": 2,
+              "ionic": 19,
+              "iambo_trochaic": 2
+            }
+        }
+      },
+      {
+        "name": "odysseus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "ithaca"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 50,
+              "dochmiac": 2,
+              "trochaic": 4,
+              "dactylo_epitrite": 1}
+            
+        }
+      },
+      {
+        "name": "agamemnon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "mycenaean"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "ionic": 11,
+              "iambic": 93,
+              "dochmiac": 1,
+              "cretic_paeonic": 1,
+              "anapaestic": 2,
+              "iambo_trochaic": 1}
+        }
+      },
+      {
+        "name": "hekabe",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "queen",
+          "fin_country": "trojan",
+          "fin_myth": "human",
+          "metre": {
+              "anapaestic": 3,
+              "ionic": 14,
+              "iambic": 301,
+              "aeolo_choriambic": 6,
+              "dactylic": 19,
+              "cretic_paeonic": 52,
+              "dochmiac": 18,
+              "trochaic": 41,
+              "iambo_trochaic": 10,
+              "asynartetic": 2,
+              "hypodochmius": 1
+            }
+        }
+      },
+      {
+        "name": "polyxene",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": "trojan",
+          "fin_myth": "human",
+          "metre": {
+              "asynartetic": 2,
+              "trochaic": 19,
+              "dochmiac": 1,
+              "iambic": 60,
+              "cretic_paeonic": 3,
+              "aeolo_choriambic": 1
+            }
+        }
+      }
+    ]
+  },
+  {
+    "title": "agamemnon",
+    "author": "Aeschylus",
+    "characters": [
+      {
+        "name": "phylax",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "common",
+          "fin_country": [
+            "greek",
+            "argive"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 35,
+              "trochaic": 4
+            }
+        }
+      },
+      {
+        "name": "klytaimnestra",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "queen",
+          "fin_country": [
+            "greek",
+            "spartan",
+            "mycenaean"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 223,
+              "ionic": 16,
+              "cretic_paeonic": 14,
+              "trochaic": 10,
+              "dochmiac": 3,
+              "dactylic": 49,
+              "aeolo_choriambic": 3,
+              "iambo_trochaic": 4,
+              "anapaestic": 8}
+        }
+      },
+      {
+        "name": "keryx",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "common",
+          "fin_country": [
+            "greek",
+            "argive"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 121,
+              "trochaic": 1,
+              "dactylo_epitrite": 1,
+              "aeolo_choriambic": 2
+            }
+        }
+      },
+      {
+        "name": "agamemnon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "mycenaean"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 75,
+              "trochaic": 4,
+              "iambo_trochaic": 4,
+              "aeolo_choriambic": 1
+            }
+        }
+      },
+      {
+        "name": "kasandra",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": "trojan",
+          "fin_myth": "prophet",
+          "metre": {
+              "cretic_paeonic": 7,
+              "aeolo_choriambic": 3,
+              "dochmiac": 14,
+              "iambic": 121,
+              "trochaic": 2,
+              "iambo_trochaic": 4,
+              "ionic": 4
+            }
+        }
+      },
+      {
+        "name": "aigisthos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "mycenaean"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 55,
+              "aeolo_choriambic": 1,
+              "dactylo_epitrite": 1,
+              "trochaic": 4,
+              "cretic_paeonic": 4,
+              "dochmiac": 2
+            }
+        }
+      }
+    ]
+  },
+  {
+    "title": "electra",
+    "author": "Sophocles",
+    "characters": [
+      {
+        "name": "chrysothemis",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 157,
+              "cretic_paeonic": 12,
+              "ionic": 4,
+              "trochaic": 4,
+              "iambo_trochaic": 4,
+              "dochmiac": 2
+            }
+        }
+      },
+      {
+        "name": "aigisthos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "mycenaean"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "aeolo_choriambic": 1,
+              "iambic": 29,
+              "dactylic": 5,
+              "iambo_trochaic": 4,
+              "trochaic": 1
+            }
+        }
+      },
+      {
+        "name": "orestes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "mycenaean",
+            "spartan",
+            "argive"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 119,
+              "cretic_paeonic": 12,
+              "dochmiac": 8,
+              "ionic": 3,
+              "dactylic": 2,
+              "iambo_trochaic": 3,
+              "anapaestic": 2,
+              "trochaic": 4
+              }
+        }
+      },
+      {
+        "name": "klytaimnestra",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "queen",
+          "fin_country": [
+            "greek",
+            "spartan",
+            "mycenaean"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 116,
+              "ionic": 3,
+              "cretic_paeonic": 4,
+              "iambo_trochaic": 2
+            }
+        }
+      },
+      {
+        "name": "paidagogos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "common",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 129,
+              "trochaic": 4,
+              "dochmiac": 3,
+              "asynartetic": 1,
+              "cretic_paeonic": 2,
+              "aeolo_choriambic": 1
+            }
+        }
+      },
+      {
+        "name": "elektra",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "mycenaean"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "ionic": 27,
+              "trochaic": 29,
+              "anapaestic": 17,
+              "cretic_paeonic": 51,
+              "iambic": 409,
+              "aeolo_choriambic": 3,
+              "dactylic": 45,
+              "dochmiac": 15,
+              "choriamb": 1,
+              "iambo_trochaic": 7,
+              "asynartetic": 3
+            }
+        }
+      }
+    ]
+  },
+  {
+    "title": "ion",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "xouthos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 60,
+              "cretic_paeonic": 3,
+              "choriamb": 1,
+              "ionic": 7,
+              "trochaic": 9,
+              "iambo_trochaic": 1,
+              "aeolo_choriambic": 1,
+              "anapaestic": 3
+            }
+        }
+      },
+      {
+        "name": "ion",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "achaean"
+          ],
+          "fin_myth": "demigod",
+          "metre": {
+              "dactylic": 47,
+              "anapaestic": 13,
+              "iambic": 264,
+              "ionic": 47,
+              "aeolo_choriambic": 8,
+              "cretic_paeonic": 24,
+              "trochaic": 50,
+              "dochmiac": 12,
+              "asynartetic": 1
+            }
+        }
+      },
+      {
+        "name": "prophetis",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "priest",
+          "fin_country": "greek",
+          "fin_myth": "prophet",
+          "metre": {
+              "ionic": 11,
+              "iambic": 19,
+              "iambo_trochaic": 2
+            }
+        }
+      },
+      {
+        "name": "presbytes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "servant",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "cretic_paeonic": 10,
+              "iambic": 99,
+              "asynartetic": 1,
+              "anapaestic": 1,
+              "aeolo_choriambic": 2,
+              "iambo_trochaic": 6,
+              "trochaic": 4,
+              "dactylic": 9,
+              "dochmiac": 1
+            }
+        }
+      },
+      {
+        "name": "therapon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "slave",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 106,
+              "trochaic": 2,
+              "ionic": 3,
+              "cretic_paeonic": 4
+            }
+        }
+      },
+      {
+        "name": "athena",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "goddess",
+          "metre": {
+              "trochaic": 8,
+              "iambic": 34,
+              "aeolo_choriambic": 1,
+              "ionic": 20,
+              "dochmiac": 2
+            }
+        }
+      },
+      {
+        "name": "hermes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "god",
+          "metre": {
+              "iambic": 60,
+              "dochmiac": 2,
+              "cretic_paeonic": 4,
+              "ionic": 13,
+              "trochaic": 4
+            }
+        }
+      },
+      {
+        "name": "kreousa",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "athenian"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 211,
+              "dochmiac": 18,
+              "ionic": 17,
+              "cretic_paeonic": 29,
+              "aeolo_choriambic": 8,
+              "trochaic": 44,
+              "anapaestic": 6,
+              "dactylic": 16,
+              "asynartetic": 2,
+              "lekythion": 1,
+              "iambo_trochaic": 3
+            }
+        }
+      }
+    ]
+  },
+  {
+    "title": "alcestis",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "apollon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "god",
+          "metre": {
+              "iambic": 34,
+              "dactylic": 5,
+              "ionic": 10
+            }
+        }
+      },
+      {
+        "name": "thanatos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "god",
+          "metre": {
+              "anapaestic": 1,
+              "ionic": 9,
+              "iambic": 18
+            }
+        }
+      },
+      {
+        "name": "therapaina_alkistidos",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "servant",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 59,
+              "asynartetic": 2,
+              "ionic": 2
+            }
+        }
+      },
+      {
+        "name": "alcestis",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "iolchian"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "dochmiac": 1,
+              "aeolo_choriambic": 2,
+              "iambic": 67,
+              "anapaestic": 5,
+              "trochaic": 4
+            }
+        }
+      },
+      {
+        "name": "admetos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "thessalian"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "dochmiac": 4,
+              "iambic": 256,
+              "ionic": 9,
+              "anapaestic": 12,
+              "iambo_trochaic": 6,
+              "trochaic": 11,
+              "cretic_paeonic": 8,
+              "aeolo_choriambic": 1,
+              "dactylic": 17 }
+        }
+      },
+      {
+        "name": "pais alkistidos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "noble",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 10,
+              "anapaestic": 2,
+              "aeolo_choriambic": 2,
+              "trochaic": 1,
+              "ionic": 1
+            }
+        }
+      },
+      {
+        "name": "herakles",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "hero",
+          "fin_country": "greek",
+          "fin_myth": "demigod",
+          "metre": {
+              "iambic": 158,
+              "cretic_paeonic": 8,
+              "asynartetic": 1,
+              "iambo_trochaic": 3,
+              "dochmiac": 2,
+              "trochaic": 7,
+              "dactylic": 15
+            }
+        }
+      },
+      {
+        "name": "pheres",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "iolchian"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 65,
+              "dochmiac": 2,
+              "iambo_trochaic": 2
+            }
+        }
+      },
+      {
+        "name": "therapon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "servant",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "dactylo_epitrite": 1,
+              "ionic": 20,
+              "aeolo_choriambic": 6,
+              "anapaestic": 1,
+              "iambic": 140,
+              "asynartetic": 1,
+              "choriamb": 1,
+              "dochmiac": 2
+            }
+        }
+      }
+    ]
+  },
+  {
+    "title": "medea",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "trophos",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "servant",
+          "fin_country": [
+            "greek",
+            "colchis"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 95,
+              "iambo_trochaic": 2,
+              "dochmiac": 2,
+              "anapaestic": 4,
+              "aeolo_choriambic": 2,
+              "ionic": 7,
+              "cretic_paeonic": 3
+            }
+        }
+      },
+      {
+        "name": "kreon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "corinthian"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 39,
+              "cretic_paeonic": 4
+            }
+        }
+      },
+      {
+        "name": "paides medeas",
+        "character_information": {
+          "fin_gender": "n",
+          "fin_nobility": "noble",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "cretic_paeonic": 4
+            }
+        }
+      },
+      {
+        "name": "paidagogos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "servant",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 32,
+              "anapaestic": 2
+            }
+        }
+      },
+      {
+        "name": "jason",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "hero",
+          "fin_country": [
+            "greek",
+            "iolcan"
+          ],
+          "fin_myth": [
+            "hero",
+            "human"
+          ],
+          "metre": {
+              "iambic": 162,
+              "dactylic": 17,
+              "trochaic": 16,
+              "dochmiac": 3,
+              "cretic_paeonic": 6,
+              "aeolo_choriambic": 2,
+              "ionic": 5,
+              "iambo_trochaic": 4,
+              "asynartetic": 1,
+              "choriamb": 2}
+        }
+      },
+      {
+        "name": "aegeus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "athenian"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 32,
+              "trochaic": 8,
+              "dactylic": 5,
+              "aeolo_choriambic": 1
+            }
+        }
+      },
+      {
+        "name": "medeia",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "colchis"
+          ],
+          "fin_myth": [
+            "human",
+            "demihuman"
+          ],
+          "metre": {
+              "asynartetic": 5,
+              "anapaestic": 5,
+              "ionic": 29,
+              "dactylic": 29,
+              "cretic_paeonic": 23,
+              "iambic": 425,
+              "iambo_trochaic": 6,
+              "dochmiac": 8,
+              "aeolo_choriambic": 3,
+              "trochaic": 34
+            }
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 88,
+              "ionic": 4,
+              "dochmiac": 2,
+              "dactylic": 5,
+              "trochaic": 3,
+              "iambo_trochaic": 2,
+              "cretic_paeonic": 4
+            }
+        }
+      }
+    ]
+  },
+  {
+    "title": "andromache",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "andromache",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "trojan"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "dochmiac": 9,
+              "iambic": 221,
+              "trochaic": 27,
+              "asynartetic": 1,
+              "cretic_paeonic": 13,
+              "ionic": 20,
+              "aeolo_choriambic": 3,
+              "iambo_trochaic": 6,
+              "dactylic": 11,
+              "lekythion": 1
+            }
+        }
+      },
+      {
+        "name": "therapaina",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "servant",
+          "fin_country": "trojan",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 15,
+              "cretic_paeonic": 4,
+              "ionic": 3
+            }
+        }
+      },
+      {
+        "name": "ermione",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": "trojan",
+          "fin_myth": "human",
+          "metre": {
+          "iambic": 98,
+          "ionic": 12,
+          "dochmiac": 8,
+          "aeolo_choriambic": 2,
+          "iambo_trochaic": 4,
+          "trochaic": 5,
+          "cretic_paeonic": 1
+        }
+        }
+      },
+      {
+        "name": "menelaos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "spartan"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 99,
+              "iambo_trochaic": 2,
+              "ionic": 2,
+              "dochmiac": 4,
+              "dactylic": 4,
+              "aeolo_choriambic": 1,
+              "choriamb": 2,
+              "cretic_paeonic": 4,
+              "trochaic": 4
+            }
+        }
+      },
+      {
+        "name": "pais andromachis",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "noble",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "aeolo_choriambic": 4,
+              "trochaic": 1
+            }
+        }
+      },
+      {
+        "name": "peleus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "king",
+            "hero"
+          ],
+          "fin_country": "greek",
+          "fin_myth": [
+            "human",
+            "hero"
+          ],
+          "metre": {
+              "iambic": 133,
+              "dochmiac": 13,
+              "trochaic": 17,
+              "ionic": 8,
+              "dactylic": 10,
+              "aeolo_choriambic": 2,
+              "hypodochmius": 1,
+              "cretic_paeonic": 2 }
+        }
+      },
+      {
+        "name": "trophos",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "servant",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 37,
+              "trochaic": 3
+            }
+        }
+      },
+      {
+        "name": "orestes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "mycenaean",
+            "spartan",
+            "argive"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 52,
+              "trochaic": 11,
+              "cretic_paeonic": 5,
+              "aeolo_choriambic": 1,
+              "dochmiac": 1
+            }
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": [
+            "greek",
+            "achaean"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 62,
+              "trochaic": 22,
+              "ionic": 6,
+              "dactylic": 5,
+              "cretic_paeonic": 1
+            }
+        }
+      },
+      {
+        "name": "thetis",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": [
+            "nymph",
+            "nereid"
+          ],
+          "metre": {
+              "iambic": 31,
+              "iambo_trochaic": 2,
+              "trochaic": 4,
+              "ionic": 3,
+              "cretic_paeonic": 4
+            }
+        }
+      }
+    ]
+  },
+  {
+    "title": "heracleidae",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "iolaos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "hero",
+            "noble"
+          ],
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre": {
+                "iambic": 251,
+                "ionic": 5,
+                "cretic_paeonic": 27,
+                "dochmiac": 5,
+                "dactylic": 10,
+                "trochaic": 26
+              }
+        }
+      },
+      {
+        "name": "keryx",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "common",
+            "noble"
+          ],
+          "fin_country": [
+            "greek",
+            "argive"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 68,
+              "cretic_paeonic": 18,
+              "trochaic": 4
+            }
+        }
+      },
+      {
+        "name": "demophon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "athenian"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 100,
+              "trochaic": 4,
+              "cretic_paeonic": 3,
+              "iambo_trochaic": 2
+            }
+        }
+      },
+      {
+        "name": "makaria",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "noble",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 80,
+              "trochaic": 8,
+              "asynartetic": 1,
+              "dochmiac": 1,
+              "cretic_paeonic": 2
+            }
+        }
+      },
+      {
+        "name": "therapon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "servant",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "trochaic": 9,
+              "dochmiac": 2,
+              "iambic": 124,
+              "ionic": 2,
+              "cretic_paeonic": 4,
+              "aeolo_choriambic": 2
+            }
+        }
+      },
+      {
+        "name": "alkmene",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "noble",
+          "fin_country": [
+            "greek",
+            "mycenaean",
+            "theban"
+          ],
+          "fin_myth": "human",
+          "metre":  {
+              "trochaic": 7,
+              "iambic": 90,
+              "cretic_paeonic": 6,
+              "ionic": 3 }
+        }
+      },
+      {
+        "name": "eurystheus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "argive"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "trochaic": 4,
+              "iambic": 43,
+              "ionic": 3,
+              "cretic_paeonic": 4
+            }
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 56,
+              "cretic_paeonic": 12,
+              "asynartetic": 1,
+              "dactylo_epitrite": 1,
+              "trochaic": 4
+            }
+        }
+      }
+    ]
+  },
+  {
+    "title": "hippolytus",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "aphrodite",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "goddess",
+          "metre": {
+              "iambic": 32,
+              "trochaic": 4,
+              "dochmiac": 2,
+              "dactylic": 9,
+              "ionic": 10
+            }
+        }
+      },
+      {
+        "name": "hippolutos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "noble",
+          "fin_country": [
+            "greek",
+            "athenian"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "aeolo_choriambic": 3,
+              "dochmiac": 7,
+              "iambic": 206,
+              "cretic_paeonic": 8,
+              "trochaic": 15,
+              "dactylic": 14,
+              "iambo_trochaic": 2,
+              "anapaestic": 11
+            }
+        }
+      },
+      {
+        "name": "therapon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "servant",
+          "fin_country": "greek",
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 15,
+              "cretic_paeonic": 4
+            }
+        }
+      },
+      {
+        "name": "trophos",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "servant",
+          "fin_country": [
+            "greek",
+            "cretan"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 17,
+              "trochaic": 5
+            }
+        }
+      },
+      {
+        "name": "phaedra",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": [
+            "princess",
+            "queen"
+          ],
+          "fin_country": [
+            "greek",
+            "cretan",
+            "athenian"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "cretic_paeonic": 10,
+              "ionic": 1,
+              "dactylic": 3,
+              "anapaestic": 4,
+              "trochaic": 12,
+              "iambic": 137,
+              "iambo_trochaic": 6,
+              "dochmiac": 1
+            }
+        }
+      },
+      {
+        "name": "theseus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": "greek",
+          "fin_myth": [
+            "demigod",
+            "hero"
+          ],
+          "metre": {
+              "iambic": 130,
+              "trochaic": 10,
+              "aeolo_choriambic": 1,
+              "dochmiac": 8,
+              "hypodochmius": 1,
+              "ionic": 23,
+              "iambo_trochaic": 2,
+              "cretic_paeonic": 7}
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": [
+            "greek",
+            "athenian"
+          ],
+          "fin_myth": "human",
+          "metre": {
+              "iambic": 76,
+              "cretic_paeonic": 12,
+              "asynartetic": 1,
+              "dactylo_epitrite": 1,
+              "trochaic": 4,
+              "dactylic": 8,
+              "ionic": 3
+            }
+        }
+      },
+      {
+        "name": "artemis",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "goddess",
+          "metre": {
+              "ionic": 15,
+              "iambic": 57,
+              "cretic_paeonic": 8,
+              "dochmiac": 4,
+              "trochaic": 6
+            }
+        }
+      }
+    ]
+  }
+]

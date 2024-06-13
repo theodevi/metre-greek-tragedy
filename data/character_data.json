@@ -1,0 +1,2892 @@
+[
+  {
+    "title": "orestes",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "orestes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": ["greek", "mycenaean", "spartan", "argive"],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "pylades",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "prince",
+          "fin_country": [
+            "greek",
+            "phocian"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "ermione",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": "trojan",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "helene",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "queen",
+          "fin_country": [
+            "greek",
+            "trojan"
+          ],
+          "fin_myth": "demigod"
+        }
+      },
+      {
+        "name": "elektra",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "mycenaean"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "menelaos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "spartan"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "apollon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "god"
+        }
+      },
+      {
+        "name": "tyndareos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "spartan"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "phryx",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "slave",
+          "fin_country": "phrygian",
+          "fin_myth": "human"
+        }
+      }
+    ]
+  },
+  {
+    "title": "suppliants",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "athena",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "goddess"
+        }
+      },
+      {
+        "name": "paides",
+        "character_information": {
+          "fin_gender": "n",
+          "fin_nobility": "n_a",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "iphis",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "argive"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "keryx",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "noble",
+            "common"
+          ],
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "aithra",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "theseus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": "greek",
+          "fin_myth": [
+            "demigod",
+            "hero"
+          ]
+        }
+      },
+      {
+        "name": "adrastos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "argive"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "euadne",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "argive"
+          ],
+          "fin_myth": "human"
+        }
+      }
+    ]
+  },
+  {
+    "title": "heracles",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "lyssa",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "goddess"
+        }
+      },
+      {
+        "name": "theseus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "athenian"
+          ],
+          "fin_myth": "demigod"
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "amphitryon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "mycenaean",
+            "greek"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "herakles",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "hero",
+          "fin_country": "greek",
+          "fin_myth": "demigod"
+        }
+      },
+      {
+        "name": "megara",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "lykos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "iris",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "goddess"
+        }
+      }
+    ]
+  },
+  {
+    "title": "the-trojan-women",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "andromache",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "trojan"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "talthybios",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "noble",
+          "fin_country": [
+            "greek",
+            "achaean"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "helene",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "trojan"
+          ],
+          "fin_myth": "demigod"
+        }
+      },
+      {
+        "name": "menelaos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "spartan"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "hekabe",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "queen",
+          "fin_country": "trojan",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "athena",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "goddess"
+        }
+      },
+      {
+        "name": "kasandra",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": "trojan",
+          "fin_myth": "prophet"
+        }
+      },
+      {
+        "name": "poseidon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "god"
+        }
+      }
+    ]
+  },
+  {
+    "title": "iphigenia-in-aulis",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "achilleus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "myrmidon"
+          ],
+          "fin_myth": [
+            "hero",
+            "demihuman"
+          ]
+        }
+      },
+      {
+        "name": "menelaos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "spartan"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "angelos_a",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "agamemnon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "mycenaean"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "presbytes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "common",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "klytaimnestra",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "queen",
+          "fin_country": [
+            "greek",
+            "spartan",
+            "mycenaean"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "iphigeneia",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "mycenaean"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      }
+    ]
+  },
+  {
+    "title": "suppliant-women",
+    "author": "Aeschylus",
+    "characters": [
+      {
+        "name": "danaos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "libyan",
+            "argive",
+            "greek"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "basileus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "argive"
+          ],
+          "fin_myth": "demigod"
+        }
+      },
+      {
+        "name": "keryx",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "common",
+            "noble"
+          ],
+          "fin_country": "egyptian",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "danais",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "libyan",
+            "argive",
+            "greek"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "therapaina",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "servant",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      }
+    ]
+  },
+  {
+    "title": "persians",
+    "author": "Aeschylus",
+    "characters": [
+      {
+        "name": "atossa",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "queen",
+          "fin_country": "persian",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "persian",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "eidolon_dareiou",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": "persian",
+          "fin_myth": "ghost"
+        }
+      },
+      {
+        "name": "xerxes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": "persian",
+          "fin_myth": "human"
+        }
+      }
+    ]
+  },
+  {
+    "title": "libation-bearers",
+    "author": "Aeschylus",
+    "characters": [
+      {
+        "name": "orestes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "mycenaean",
+            "spartan",
+            "argive"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "elektra",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "mycenaean"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "oiketes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "servant",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "klytaimnestra",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "queen",
+          "fin_country": [
+            "greek",
+            "spartan",
+            "mycenaean"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "trophos",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "servant",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "aigisthos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "mycenaean"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "pylades",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "prince",
+          "fin_country": [
+            "greek",
+            "phocian"
+          ],
+          "fin_myth": "human"
+        }
+      }
+    ]
+  },
+  {
+    "title": "oedipus-at-colonus",
+    "author": "Sophocles",
+    "characters": [
+      {
+        "name": "theseus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "king",
+            "hero"
+          ],
+          "fin_country": [
+            "greek",
+            "athenian"
+          ],
+          "fin_myth": [
+            "demigod",
+            "hero"
+          ]
+        }
+      },
+      {
+        "name": "xenos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "common",
+          "fin_country": [
+            "greek",
+            "colonian"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "oidipous",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "polyneikes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "kreon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "ismene",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "antigone",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      }
+    ]
+  },
+  {
+    "title": "antigone",
+    "author": "Sophocles",
+    "characters": [
+      {
+        "name": "phylax",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "common",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "exangelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "teiresias",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "seer",
+            "noble"
+          ],
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "demihuman"
+        }
+      },
+      {
+        "name": "ismene",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "kreon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "antigone",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "haimon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "prince",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "eurydike",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "noble",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      }
+    ]
+  },
+  {
+    "title": "ajax",
+    "author": "Sophocles",
+    "characters": [
+      {
+        "name": "menelaos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "spartan"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "odysseus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "ithaca"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "teukros",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": "salamine",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "athena",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "goddess"
+        }
+      },
+      {
+        "name": "agamemnon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "mycenaean"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "aias",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "king",
+            "hero"
+          ],
+          "fin_country": [
+            "greek",
+            "salamine"
+          ],
+          "fin_myth": "hero"
+        }
+      },
+      {
+        "name": "tekmessa",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": "phrygian",
+          "fin_myth": "human"
+        }
+      }
+    ]
+  },
+  {
+    "title": "rhesus",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "mousa",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "muse"
+        }
+      },
+      {
+        "name": "odysseus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "ithaca"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "aineias",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "prince",
+          "fin_country": "trojan",
+          "fin_myth": "hero"
+        }
+      },
+      {
+        "name": "heniochos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "noble",
+          "fin_country": "thracian",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "athena",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "goddess"
+        }
+      },
+      {
+        "name": "alexandros",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "prince",
+          "fin_country": "trojan",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "angelos_poimen",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "peasant",
+            "messenger"
+          ],
+          "fin_country": "trojan",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "dolon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "noble",
+          "fin_country": "trojan",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "diomedes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "argive"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "hektor",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "prince",
+          "fin_country": "trojan",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "resos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": "thracian",
+          "fin_myth": [
+            "demihuman",
+            "demigod"
+          ]
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "trojan",
+          "fin_myth": "human"
+        }
+      }
+    ]
+  },
+  {
+    "title": "phoenissae",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "teiresias",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "seer",
+            "noble"
+          ],
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "demihuman"
+        }
+      },
+      {
+        "name": "polyneikes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "iokaste",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "queen",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "oidipous",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "antigone",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "menoikeus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "noble",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "paidagogos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "servant",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "kreon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "eteokles",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      }
+    ]
+  },
+  {
+    "title": "philoctetes",
+    "author": "Sophocles",
+    "characters": [
+      {
+        "name": "philoktetes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "hero",
+            "noble"
+          ],
+          "fin_country": [
+            "greek",
+            "meliboean"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "herakles",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "hero",
+            "noble"
+          ],
+          "fin_country": "greek",
+          "fin_myth": "demigod"
+        }
+      },
+      {
+        "name": "emporos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "common",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "odysseus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "ithaca"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "neoptolemos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "noble",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      }
+    ]
+  },
+  {
+    "title": "trachiniae",
+    "author": "Sophocles",
+    "characters": [
+      {
+        "name": "therapaina",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "servant",
+          "fin_country": [
+            "greek",
+            "calydonian"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "presbys",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "common",
+          "fin_country": [
+            "greek",
+            "calydonian"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": [
+            "greek",
+            "calydonian"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "trophos",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "servant",
+          "fin_country": [
+            "greek",
+            "calydonian"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "hyllos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "noble",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "herakles",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "hero",
+            "noble"
+          ],
+          "fin_country": "greek",
+          "fin_myth": "demigod"
+        }
+      },
+      {
+        "name": "deianeira",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "calydonian"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "lichas",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "servant",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      }
+    ]
+  },
+  {
+    "title": "bacchae",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "angelos_b",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "dionysos",
+        "character_information": {
+          "fin_gender": [
+            "m",
+            "n"
+          ],
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "god"
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "teiresias",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "seer",
+            "noble"
+          ],
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "demihuman"
+        }
+      },
+      {
+        "name": "therapon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "servant",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "agaue",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "queen",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "kadmos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "hero"
+        }
+      },
+      {
+        "name": "pentheus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      }
+    ]
+  },
+  {
+    "title": "eumenides",
+    "author": "Aeschylus",
+    "characters": [
+      {
+        "name": "pythias",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "priestess",
+          "fin_country": [
+            "greek",
+            "delphian"
+          ],
+          "fin_myth": "prophet"
+        }
+      },
+      {
+        "name": "apollon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "god"
+        }
+      },
+      {
+        "name": "orestes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "mycenaean",
+            "spartan",
+            "argive"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "klytaimnestras_eidolon",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "queen",
+          "fin_country": [
+            "greek",
+            "spartan",
+            "mycenaean"
+          ],
+          "fin_myth": "ghost"
+        }
+      },
+      {
+        "name": "athena",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "goddess"
+        }
+      },
+      {
+        "name": "propompoi",
+        "character_information": {
+          "fin_gender": "n",
+          "fin_nobility": "n_a",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      }
+    ]
+  },
+  {
+    "title": "helen",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "graus",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "common",
+          "fin_country": "egyptian",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "theoklymenos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "noble",
+          "fin_country": "greek",
+          "fin_myth": "prophet"
+        }
+      },
+      {
+        "name": "dioskoroi",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "noble",
+          "fin_country": "greek",
+          "fin_myth": "demigod"
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "n_a",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "teukros",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "salamine"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "theonoe",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "noble",
+          "fin_country": [
+            "greek",
+            "mycenaean"
+          ],
+          "fin_myth": "prophet"
+        }
+      },
+      {
+        "name": "therapon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "servant",
+          "fin_country": "n_a",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "meneleos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "spartan"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "helene",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "trojan"
+          ],
+          "fin_myth": "demigod"
+        }
+      }
+    ]
+  },
+  {
+    "title": "seven-against-thebes",
+    "author": "Aeschylus",
+    "characters": [
+      {
+        "name": "eteokles",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "antigone",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "ismene",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "keryx",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "noble",
+            "common"
+          ],
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      }
+    ]
+  },
+  {
+    "title": "oedipus-tyrannus",
+    "author": "Sophocles",
+    "characters": [
+      {
+        "name": "exangelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "hiereus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "priest",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "oidipous",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "teiresias",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "seer",
+            "noble"
+          ],
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "demihuman"
+        }
+      },
+      {
+        "name": "therapon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "peasant",
+            "servant"
+          ],
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "iokaste",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "queen",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "kreon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": [
+            "corinthian",
+            "greek"
+          ],
+          "fin_myth": "human"
+        }
+      }
+    ]
+  },
+  {
+    "title": "iphigenia-in-tauris",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "orestes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "mycenaean",
+            "spartan",
+            "argive"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "common",
+          "fin_country": "n_a",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "pylades",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "prince",
+          "fin_country": [
+            "greek",
+            "phocian"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "athena",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "god"
+        }
+      },
+      {
+        "name": "boukolos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "peasant",
+          "fin_country": "taurian",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "thoas",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": "taurian",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "iphigeneia",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "mycenaean"
+          ],
+          "fin_myth": "human"
+        }
+      }
+    ]
+  },
+  {
+    "title": "prometheus-bound",
+    "author": "Aeschylus",
+    "characters": [
+      {
+        "name": "kratos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "god"
+        }
+      },
+      {
+        "name": "hephaistos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "god"
+        }
+      },
+      {
+        "name": "prometheus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "titan"
+        }
+      },
+      {
+        "name": "okeanos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "titan"
+        }
+      },
+      {
+        "name": "io",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "nymph"
+        }
+      },
+      {
+        "name": "hermes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "god"
+        }
+      }
+    ]
+  },
+  {
+    "title": "electraa",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "orestes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "mycenaean",
+            "spartan",
+            "argive"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "presbys",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "servant",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "klytaimnestra",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "queen",
+          "fin_country": [
+            "greek",
+            "spartan",
+            "mycenaean"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "autourgos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "noble",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "elektra",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "mycenaean"
+          ],
+          "fin_myth": "human"
+        }
+      }
+    ]
+  },
+  {
+    "title": "hecuba",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "talthybios",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "therapaina",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "slave",
+          "fin_country": "n_a",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "polymestor",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": "thracian",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "polydorou_eidolon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "prince",
+          "fin_country": "trojan",
+          "fin_myth": "ghost"
+        }
+      },
+      {
+        "name": "odysseus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "ithaca"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "agamemnon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "mycenaean"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "hekabe",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "queen",
+          "fin_country": "trojan",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "polyxene",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": "trojan",
+          "fin_myth": "human"
+        }
+      }
+    ]
+  },
+  {
+    "title": "agamemnon",
+    "author": "Aeschylus",
+    "characters": [
+      {
+        "name": "phylax",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "common",
+          "fin_country": [
+            "greek",
+            "argive"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "klytaimnestra",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "queen",
+          "fin_country": [
+            "greek",
+            "spartan",
+            "mycenaean"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "keryx",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "common",
+          "fin_country": [
+            "greek",
+            "argive"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "agamemnon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "mycenaean"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "kasandra",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": "trojan",
+          "fin_myth": "prophet"
+        }
+      },
+      {
+        "name": "aigisthos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "mycenaean"
+          ],
+          "fin_myth": "human"
+        }
+      }
+    ]
+  },
+  {
+    "title": "electra",
+    "author": "Sophocles",
+    "characters": [
+      {
+        "name": "chrysothemis",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "aigisthos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "mycenaean"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "orestes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "mycenaean",
+            "spartan",
+            "argive"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "klytaimnestra",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "queen",
+          "fin_country": [
+            "greek",
+            "spartan",
+            "mycenaean"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "paidagogos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "common",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "elektra",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "mycenaean"
+          ],
+          "fin_myth": "human"
+        }
+      }
+    ]
+  },
+  {
+    "title": "ion",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "xouthos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "ion",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "achaean"
+          ],
+          "fin_myth": "demigod"
+        }
+      },
+      {
+        "name": "prophetis",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "priest",
+          "fin_country": "greek",
+          "fin_myth": "prophet"
+        }
+      },
+      {
+        "name": "presbytes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "servant",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "therapon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "slave",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "athena",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "goddess"
+        }
+      },
+      {
+        "name": "hermes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "god"
+        }
+      },
+      {
+        "name": "kreousa",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "athenian"
+          ],
+          "fin_myth": "human"
+        }
+      }
+    ]
+  },
+  {
+    "title": "alcestis",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "apollon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "god"
+        }
+      },
+      {
+        "name": "thanatos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "god"
+        }
+      },
+      {
+        "name": "therapaina_alkistidos",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "servant",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "alcestis",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "iolchian"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "admetos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "thessalian"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "pais alkistidos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "noble",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "herakles",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "hero",
+          "fin_country": "greek",
+          "fin_myth": "demigod"
+        }
+      },
+      {
+        "name": "pheres",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "iolchian"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "therapon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "servant",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      }
+    ]
+  },
+  {
+    "title": "medea",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "trophos",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "servant",
+          "fin_country": [
+            "greek",
+            "colchis"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "kreon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "corinthian"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "paides medeas",
+        "character_information": {
+          "fin_gender": "n",
+          "fin_nobility": "noble",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "paidagogos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "servant",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "jason",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "hero",
+          "fin_country": [
+            "greek",
+            "iolcan"
+          ],
+          "fin_myth": [
+            "hero",
+            "human"
+          ]
+        }
+      },
+      {
+        "name": "aegeus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "athenian"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "medeia",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "colchis"
+          ],
+          "fin_myth": [
+            "human",
+            "demihuman"
+          ]
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      }
+    ]
+  },
+  {
+    "title": "andromache",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "andromache",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": [
+            "greek",
+            "trojan"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "therapaina",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "servant",
+          "fin_country": "trojan",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "ermione",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "princess",
+          "fin_country": "trojan",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "menelaos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "spartan"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "pais andromachis",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "noble",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "peleus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "king",
+            "hero"
+          ],
+          "fin_country": "greek",
+          "fin_myth": [
+            "human",
+            "hero"
+          ]
+        }
+      },
+      {
+        "name": "trophos",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "servant",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "orestes",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "mycenaean",
+            "spartan",
+            "argive"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": [
+            "greek",
+            "achaean"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "thetis",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": [
+            "nymph",
+            "nereid"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "title": "heracleidae",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "iolaos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "hero",
+            "noble"
+          ],
+          "fin_country": [
+            "greek",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "keryx",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": [
+            "common",
+            "noble"
+          ],
+          "fin_country": [
+            "greek",
+            "argive"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "demophon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "athenian"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "makaria",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "noble",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "therapon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "servant",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "alkmene",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "noble",
+          "fin_country": [
+            "greek",
+            "mycenaean",
+            "theban"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "eurystheus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": [
+            "greek",
+            "argive"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      }
+    ]
+  },
+  {
+    "title": "hippolytus",
+    "author": "Euripides",
+    "characters": [
+      {
+        "name": "aphrodite",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "goddess"
+        }
+      },
+      {
+        "name": "hippolutos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "noble",
+          "fin_country": [
+            "greek",
+            "athenian"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "therapon",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "servant",
+          "fin_country": "greek",
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "trophos",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "servant",
+          "fin_country": [
+            "greek",
+            "cretan"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "phaedra",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": [
+            "princess",
+            "queen"
+          ],
+          "fin_country": [
+            "greek",
+            "cretan",
+            "athenian"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "theseus",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "king",
+          "fin_country": "greek",
+          "fin_myth": [
+            "demigod",
+            "hero"
+          ]
+        }
+      },
+      {
+        "name": "angelos",
+        "character_information": {
+          "fin_gender": "m",
+          "fin_nobility": "messenger",
+          "fin_country": [
+            "greek",
+            "athenian"
+          ],
+          "fin_myth": "human"
+        }
+      },
+      {
+        "name": "artemis",
+        "character_information": {
+          "fin_gender": "f",
+          "fin_nobility": "n_a",
+          "fin_country": "n_a",
+          "fin_myth": "goddess"
+        }
+      }
+    ]
+  }
+]
